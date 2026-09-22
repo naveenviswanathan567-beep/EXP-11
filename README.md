@@ -115,7 +115,9 @@ for char, code in huffman_codes.items():
 ## Output:
 Print the characters and its huffmancode
 
-![alt text](image.png)
+[naveenviswanathan567-beep_EXP-10.pdf](https://github.com/user-attachments/files/32497817/naveenviswanathan567-beep_EXP-10.pdf)
+<img width="205" height="193" alt="image (3)" src="https://github.com/user-attachments/assets/fc93f8c5-c27a-43c1-b915-56786a72146d" />
+
 
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
