@@ -114,8 +114,8 @@ for char, code in huffman_codes.items():
 ## Output:
 Print the characters and its huffmancode
 
+<img width="290" height="347" alt="Screenshot 2026-09-22 134608" src="https://github.com/user-attachments/assets/5574e4d6-49bd-4062-87b9-8bb78ac7eb3f" />
 
-<img width="205" height="193" alt="image (3)" src="https://github.com/user-attachments/assets/fc93f8c5-c27a-43c1-b915-56786a72146d" />
 
 
 ## Result
