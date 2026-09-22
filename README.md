@@ -114,7 +114,7 @@ for char, code in huffman_codes.items():
 ## Output:
 Print the characters and its huffmancode
 
-[naveenviswanathan567-beep_EXP-10.pdf](https://github.com/user-attachments/files/32497817/naveenviswanathan567-beep_EXP-10.pdf)
+
 <img width="205" height="193" alt="image (3)" src="https://github.com/user-attachments/assets/fc93f8c5-c27a-43c1-b915-56786a72146d" />
 
 
